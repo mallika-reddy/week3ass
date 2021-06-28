@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#chicks{
+    background-color: #0000FF;
+    font-style: serif;
+}
+.navbar{
+
+border: none;
+background-color: #00FFFF;
+color: #61122F;
+}
+body{
+    background-color: #F0F8FF;
+    color: white;
+}
+
+
+}
+.glyphicon{
+    text-align: center;
+    font-size: 30px;
+    color:#61122F; 
+}
+
+.center{
+    width: 90%;
+    background-color: #FAEBD7;
+
+}
+.container
+{
+    background-color: #6495ED;
+}
+.text-center {
+    text-decoration-style: solid;
+    font-style: italic;
+    font-size: 30px;
+    color:#00ff00;
+}
+
+h2 {
+    font-size: 25px;
+    color:#0000CD;
+    text-align: center;
+    font-style: "Sans-serif";
+}
+
+#myNavbar ul li a {
+    color: #61122F;
+}
+.navbar-brand{
+    font-style: 
+    font-size: 30px;
+    font-family: :#61122F;    
+}
